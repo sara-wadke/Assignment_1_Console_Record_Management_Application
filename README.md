@@ -133,12 +133,12 @@ Enter the required menu number and follow the instructions displayed by the appl
 ### Add Student Record
 
 ```text
-Enter Student ID: S101
-Enter Name: Rahul
-Enter Age: 21
+Enter Student ID: 101
+Enter Name: Sara Wadke
+Enter Age: 20
 Enter Course: MCA
-Enter Email: rahul@example.com
-Enter Percentage: 82.5
+Enter Email: sarawadke2018@example.com
+Enter Percentage: 95
 
 Student record added successfully.
 ```
@@ -146,18 +146,18 @@ Student record added successfully.
 ### View All Records
 
 ```text
-Student ID : S101
-Name       : Rahul
-Age        : 21
+Student ID : 101
+Name       : Sara Wadke
+Age        : 20
 Course     : MCA
-Email      : rahul@example.com
-Percentage : 82.5
+Email      : sarawadke2018@example.com
+Percentage : 95
 ```
 
 ### Search Student
 
 ```text
-Enter Student ID to search: S101
+Enter Student ID to search: 101
 
 Student record found.
 ```
@@ -165,7 +165,7 @@ Student record found.
 ### Update Student Record
 
 ```text
-Enter Student ID to update: S101
+Enter Student ID to update: 101
 
 Student record updated successfully.
 ```
@@ -173,7 +173,7 @@ Student record updated successfully.
 ### Delete Student Record
 
 ```text
-Enter Student ID to delete: S101
+Enter Student ID to delete: 101
 Are you sure you want to delete this record? (yes/no): yes
 
 Student record deleted successfully.
@@ -268,7 +268,7 @@ The application was tested for the following operations:
 
 The complete assignment documentation is available in:
 
-**`Assignment_1_Report.pdf`**
+**`Assignment1.pdf`**
 
 The report includes the project introduction, objectives, features, Python concepts used, files used, application workflow, exception handling and validation, working screenshots, testing, conclusion, and GitHub repository details.
 
