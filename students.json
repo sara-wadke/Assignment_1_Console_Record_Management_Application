@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": "101",
+        "name": "sara wadke",
+        "age": 20,
+        "course": "MCA",
+        "email": "sarawadke2018@gmail.com",
+        "percentage": 95.0
+    },
+    {
+        "student_id": "102",
+        "name": "prisha wadke",
+        "age": 20,
+        "course": "BSCIT",
+        "email": "prishawadke@gmail.com",
+        "percentage": 90.0
+    },
+    {
+        "student_id": "103",
+        "name": "smita",
+        "age": 21,
+        "course": "BCA",
+        "email": "smita@gmail.com",
+        "percentage": 90.0
+    }
+]
