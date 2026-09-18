@@ -81,7 +81,7 @@ The application integrates the following Python concepts:
 | --------------------------- | ---------------------------------------------------------- |
 | `student_record_manager.py` | Main Python source code containing the application         |
 | `students.json`             | Stores student records in JSON format                      |
-| `Assignment_1_Report.pdf`   | Complete assignment documentation                          |
+| `Assignment1.pdf`           | Complete assignment documentation                          |
 | `screenshots/`              | Contains screenshots demonstrating the working application |
 | `README.md`                 | Project description, features, concepts, and instructions  |
 
